@@ -1,16 +1,18 @@
 ## Hi there 👋
+I am Ibrahim Isa Abdulrahman
+Data Analytics student|💻Excel | 🎞Power BI | 🔰Python
 
-<!--
-**Ibrahim-Zugo/Ibrahim-Zugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###y Interests
+- Data cleaning and visualization
+- SQL and Excel analysis
+- Power BI dashboard
+- Python for data analytics
+  
+ ###Sample Projects
+  -[ Nigeria Population Analysis using Excel](#)
+  -[Sales Dashboard in power BI](#)
+  -[Data Cleaning With Python](#)
+  
+ ☎**Contact me:** dr.ibrahimisaa@gmail.com
+ 📽**LinkedIn:** [<img width="1024" height="1024" alt="1000525195" src="https://github.com/user-attachments/assets/8afb1496-8973-416b-a455-2dda0e96fb28" />
+linkedin.com/in/ibrahim-zugo](#) 
